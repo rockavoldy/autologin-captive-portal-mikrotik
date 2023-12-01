@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/bin/bash
 
 _LIST_TOOLS_=( "curl" "awk" "sed" )
 
